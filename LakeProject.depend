@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554400437 source:c:\users\ruben\desktop\c projects\lakeproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
